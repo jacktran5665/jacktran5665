@@ -1,9 +1,11 @@
-# 💫 About Me:
+# Welcome to my Space Odyssey 🌠
+
 🚀 **Mission**: Explore the universe with AI  
 🌌 **Current Project**: Using ML to model celestial phenomena  
 🛠️ **Tech Stack**: Python | TensorFlow | PyTorch | Simulations
 
-echo "I am Jack, a Space AI Engineer at Georgia Tech"  
+# Let's Build the Future of Space Together.
+echo "I am Jack, a Space AI Engineer at Georgia Tech"
 echo "The stars are not the limit. They are just the beginning."
 
 
