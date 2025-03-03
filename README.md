@@ -4,9 +4,10 @@
 🌌 **Current Project**: Using ML to model celestial phenomena  
 🛠️ **Tech Stack**: Python | TensorFlow | PyTorch | Simulations
 
+**I am Jack, a Space AI Engineer at Georgia Tech.**  
+The stars are not the limit. They are just the beginning.
+
 # Let's Build the Future of Space Together.
-echo "I am Jack, a Space AI Engineer at Georgia Tech"
-echo "The stars are not the limit. They are just the beginning."
 
 
 ## 🌐 Socials:
