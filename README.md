@@ -6,8 +6,7 @@
 
 **_I am Jack, a Space AI Engineer at Georgia Tech._**  
 
-**_The stars are not the limit. They are just the beginning._
-**
+_The stars are not the limit. They are just the beginning._
 # Let's Build the Future of Space Together.
 
 
