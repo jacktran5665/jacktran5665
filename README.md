@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi,  I'm Jack<br><br>A passionate space AI engineer @gatech<br><br><br>
+🚀 **Mission**: Explore the universe with AI  
+🌌 **Current Project**: Using ML to model celestial phenomena  
+🛠️ **Tech Stack**: Python | TensorFlow | PyTorch | Simulations
+
+echo "I am Jack, a Space AI Engineer at Georgia Tech"  
+echo "The stars are not the limit. They are just the beginning."
 
 
 ## 🌐 Socials:
