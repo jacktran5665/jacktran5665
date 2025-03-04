@@ -2,9 +2,9 @@
 
 🚀 **Mission**: Explore the universe with AI  
 🌌 **Current Project**: Using ML to model celestial phenomena  
-🛠️ **Tech Stack**: Python | TensorFlow | PyTorch | Simulations
+🛠️ **Tech Stack**: Python | C# | Java | Simulations
 
-**_I am Jack, a Space AI Engineer at Georgia Tech._**  
+**_I am Jack, a computer scientist at Georgia Tech focusing on machine learning for space exploration._**  
 
 _The stars are not the limit. They are just the beginning._
 # Let's Build the Future of Space Together.
