@@ -4,7 +4,7 @@
 🌌 **Current Project**: Using ML to model celestial phenomena  
 🛠️ **Tech Stack**: Python | C# | Java | Simulations
 
-**_I am Jack, a computer scientist at Georgia Tech focusing on machine learning for space exploration._**  
+**_I am Jack, a computer scientist at Georgia Tech with the focus on machine learning for space exploration._**  
 
 _The stars are not the limit. They are just the beginning._
 # Let's Build the Future of Space Together.
