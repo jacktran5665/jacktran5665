@@ -1,4 +1,4 @@
-# Welcome to my Space Odyssey 🌠
+## Welcome to my Space Odyssey 🌠
 
 🚀 **Mission**: Exploring the mystery of the universe with AI
 🌌 **Current Project**: Building a neural network  
