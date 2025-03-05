@@ -1,6 +1,6 @@
 # Welcome to my Space Odyssey 🌠
 
-🚀 **Mission**: Explore the universe with AI  
+🚀 **Mission**: Exploring the mystery of the universe with AI
 🌌 **Current Project**: Building a neural network  
 🛠️ **Tech Stack**: Python | C# | Java | Assembly
 
