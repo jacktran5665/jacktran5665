@@ -3,6 +3,7 @@
 🚀 **Mission**: Exploring the mystery of the universe with AI
 
 🌌 **Current Project**: Building a linear regression to predict solar radiation 
+
 🛠️ **Tech Stack**: Python | C# | Java | Assembly
 
 **_I'm Jack, a computer scientist at Georgia Tech with the focus on machine learning for space exploration._**  
