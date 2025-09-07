@@ -1,15 +1,20 @@
-## Welcome to my Space Odyssey 🌠
+## Hey, I’m Jack 👋  
 
-🚀 **Mission**: Exploring the mystery of the universe with AI.
+I bring a passion for creating **ethical AI that solves real problems** — not just cool tech, but technology that respects people.  
 
-🌌 **Current Project**: Building a linear regression to predict solar radiation. 
+### 🌱 What I’m Working On  
+Right now, I’m building projects that use machine learning to:  
+- **Understand human behavior**  
+- **Improve accessibility**  
+- **Fight misinformation**  
 
-🛠️ **Tech Stack**: Python | C# | Java | Assembly.
+### 🛠️ Tech Stack  
+Python | C# | Java | Assembly  
 
-**_I'm Jack, a computer scientist at Georgia Tech with the focus on machine learning for space exploration._**  
+### 🎓 About Me  
+I’m a computer science student at **Georgia Tech**, focusing on **Intelligence & People** — where computer science meets human impact.  
 
-_The stars are not the limit. They are just the beginning._
-# Let's Build the Future of Space Together.
+I believe AI should be more than powerful — it should be **responsible, human-centered, and world-changing**. 🌍✨ 
 
 
 ## 🌐 Socials:
