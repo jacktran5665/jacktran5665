@@ -8,7 +8,7 @@ Right now, I’m building projects that use machine learning to:
 - **Improve accessibility**  
 - **Fight misinformation**  
 
-# Tech Stack:
+### Tech Stack
 Python | C# | Java | Assembly  
 
 ### About Me  
