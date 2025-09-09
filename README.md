@@ -1,6 +1,6 @@
 ## Hey, It's Jack :)
 
-### I bring a passion for creating **ethical AI that solves real-worlds problems** — not just cool tech, but technology that respects people.  
+### I bring a passion for creating **ethical AI that solves real-worlds problems** (not just cool tech, but technology that respects people)
 
 ## What I’m Working On  
 Right now, I’m building projects that use machine learning to:  
