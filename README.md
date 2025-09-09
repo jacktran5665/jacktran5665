@@ -4,6 +4,8 @@
 
 ## `What I’m Working On` 
 Right now, I’m focused on projects that explore how AI can connect with humans:
+> Connecting AI with humans...
+> Loading projects...
 | Project | Description |
 |--------|------------|
 | Emotion-aware chatbot | Reads messages & responds empathetically |
