@@ -4,17 +4,15 @@
 
 ## What I’m Working On  
 Right now, I’m building projects that use machine learning to:  
-- **Understand human behavior**  
-- **Improve accessibility**  
-- **Fight misinformation**  
+- **Emotional aware chatbot – a system that reads user messages and responds empathetically.**  
+- **Fake review detector – using AI to spot spam or misleading content online.**  
+- **Personalized learning assistant – a tool that suggests study material based on a user’s learning style and progress.**  
 
 ## Tech Stack
 Python | C# | Java | Assembly  
 
 ## About Me  
-I’m a computer science student at **Georgia Tech**, focusing on **Intelligence & People** — where computer science meets human impact.  
-
-I believe AI should be more than powerful — it should be **responsible, human-centered, and world-changing**. 
+I’m studying computer science at **Georgia Tech**, focusing on **Intelligence & People**. To me, AI should do more than impress... it should be responsible, human-centered, and impactful!
 
 ## Quote of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
