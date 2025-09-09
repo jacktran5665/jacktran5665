@@ -3,7 +3,7 @@
 ### I bring a passion for creating **ethical AI that solves real-worlds problems** (not just cool tech, but technology that respects people)
 
 ## What I’m Working On  
-Right now, I’m building projects that use machine learning to:  
+Right now, I’m focused on projects that explore how AI can connect with humans:
 - **Emotional aware chatbot – a system that reads user messages and responds empathetically.**  
 - **Fake review detector – using AI to spot spam or misleading content online.**  
 - **Personalized learning assistant – a tool that suggests study material based on a user’s learning style and progress.**  
