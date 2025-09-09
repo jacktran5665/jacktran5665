@@ -4,9 +4,11 @@
 
 ## What I’m Working On  
 Right now, I’m focused on projects that explore how AI can connect with humans:
-- **Emotional aware chatbot – a system that reads user messages and responds empathetically.**  
-- **Fake review detector – using AI to spot spam or misleading content online.**  
-- **Personalized learning assistant – a tool that suggests study material based on a user’s learning style and progress.**  
+| Project | Description |
+|--------|------------|
+| Emotion-aware chatbot | Reads messages & responds empathetically |
+| Fake review detector  | Detects spam or misleading content |
+| Personalized learning assistant | Suggests material based on learning style | 
 
 ## Tech Stack
 Python | C# | Java | Assembly  
