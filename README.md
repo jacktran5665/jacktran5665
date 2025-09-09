@@ -11,7 +11,7 @@ Right now, I’m focused on projects that explore how AI can connect with humans
 | Personalized learning assistant | Suggests material based on learning style | 
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Assembly](https://img.shields.io/badge/Assembly-6E4B1F?style=for-the-badge&logo=asm&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4B1F?style=for-the-badge&logo=asm&logoColor=white)  
 
 ## About Me  
 I’m studying computer science at **Georgia Tech**, focusing on **Intelligence & People**. To me, AI should do more than impress... it should be responsible, human-centered, and impactful!
