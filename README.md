@@ -18,5 +18,5 @@ I’m studying computer science at `Georgia Tech`, focusing on `Intelligence & P
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## `Features`
-![gif](https://github.com/user-attachments/assets/9a652e80-b7c4-4c31-92b0-71348fa3f77a)
+![gif](https://github.com/user-attachments/assets/9a652e80-b7c4-4c31-92b0-71348fa3f77a) [site] https://jacktran04.netlify.app/
 
