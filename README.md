@@ -18,3 +18,4 @@ I’m studying computer science at `Georgia Tech`, focusing on `Intelligence & P
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## `Features`
+![Jackport+(1)+(1)](https://github.com/user-attachments/assets/da1f9a84-07ae-4cd7-9a3d-554d8dbb4d37)
