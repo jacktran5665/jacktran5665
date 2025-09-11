@@ -16,3 +16,5 @@ I’m studying computer science at `Georgia Tech`, focusing on `Intelligence & P
 
 ## `Quote of The Day`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## `Features`
