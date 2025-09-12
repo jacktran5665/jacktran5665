@@ -5,7 +5,7 @@ Right now, I’m focused on projects that explore how AI can connect with humans
 | Project | Description |
 |--------|------------|
 | PixelBobAI | Reads messages & responds empathetically |
-| Fake review detector  | Detects spam or misleading content |
+| Perlith  | Contour planets procedural generation |
 | Personalized learning assistant | Suggests material based on learning style | 
 
 ## `Tech Skills`
