@@ -1,6 +1,6 @@
 ### Hey, I'm Jack :) I bring a passion for creating **ethical AI that solves real-worlds problems** (not just cool tech, but technology that respects people)
 
-## `What I’m Working On` 
+## `Top Projects` 
 Right now, I’m focused on projects that explore how AI can connect with humans:
 | Project | Description |
 |--------|------------|
