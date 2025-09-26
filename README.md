@@ -8,7 +8,7 @@
 | KeySearch | Hotkey desktop app for instant search | 
 | JuliaVisualizer | Using mathematical equation to visualize |
 | JacksPortfolio  | My own personal portfolio :> |
-| ClipTranslate | Instant translate to from clipboard | 
+| [ClipTranslate](https://github.com/jacktran5665/ClipTranslate) | Instant translate to from clipboard | 
 
 ## `Tech Skills`
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4B1F?style=for-the-badge&logo=asm&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
