@@ -1,12 +1,18 @@
 ### Hey, I'm Jack :) I bring a passion for creating **ethical AI that solves real-worlds problems** (not just cool tech, but technology that respects people)
 
-## `Top Projects` 
-Right now, I’m focused on projects that explore how AI can connect with humans.. These are the following:
+## `Recent Project` 
 | Project | Description |
 |--------|------------|
 | PixelBobAI | Reads messages & responds empathetically |
 | Perlith  | Contour planets procedural generation |
 | KeySearch | Hotkey desktop app for instant search | 
+
+## `Past Project` 
+| Project | Description |
+|--------|------------|
+| JuliaVisualizer | Using mathematical equation to visualize |
+| JacksPortfolio  | My own personal portfolio :> |
+| ClipSearch | Instant translate to from clipboard | 
 
 ## `Tech Skills`
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4B1F?style=for-the-badge&logo=asm&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
