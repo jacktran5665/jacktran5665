@@ -3,11 +3,11 @@
 ## `Past Project` 
 | Project | Description |
 |--------|------------|
-| PixelBobAI | Reads messages & responds empathetically |
-| Perlith  | Contour planets procedural generation |
-| KeySearch | Hotkey desktop app for instant search | 
-| JuliaVisualizer | Using mathematical equation to visualize |
-| JacksPortfolio  | My own personal portfolio :> |
+| [PixelBobAI](https://github.com/jacktran5665/pixelbobai) | Reads messages & responds empathetically |
+| [Perlith](https://github.com/jacktran5665/Perlith-Contour-planets)  | Contour planets procedural generation |
+| [QuickSearch](https://github.com/jacktran5665/QuickSearch) | Hotkey desktop app for instant search | 
+| [JuliaVisualizer](https://github.com/jacktran5665/Julia-set-visualizer) | Using mathematical equation to visualize |
+| [JacksPortfolio](https://github.com/jacktran5665/Jack-s-Portfolio)  | My own personal portfolio :> |
 | [ClipTranslate](https://github.com/jacktran5665/ClipTranslate) | Instant translate to from clipboard | 
 
 ## `Tech Skills`
