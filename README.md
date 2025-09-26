@@ -1,7 +1,7 @@
 ### Hey, I'm Jack :) I bring a passion for creating **ethical AI that solves real-worlds problems** (not just cool tech, but technology that respects people)
 
 ## `Top Projects` 
-Right now, I’m focused on projects that explore how AI can connect with humans:
+Right now, I’m focused on projects that explore how AI can connect with humans.. These are the following:
 | Project | Description |
 |--------|------------|
 | PixelBobAI | Reads messages & responds empathetically |
