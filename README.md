@@ -1,4 +1,4 @@
-### Hey there! I'm Jack :) I bring a passion for creating **human-centered AI that solves real-worlds problems** (not just cool tech!)
+### Hi, I'm Jack! I bring a passion for creating **human-centered AI that solves real-worlds problems** (not just cool tech!)
 
 ## `Past Project` 
 | Project | Description |
