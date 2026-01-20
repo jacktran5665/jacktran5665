@@ -1,5 +1,7 @@
 ### Hi, I'm Jack! I bring a passion for creating **human-centered AI that solves real-worlds problems** (not just cool tech!)
 
+CS @ Georgia Tech | Building AI that actually helps people
+
 ## `Past Project` 
 | Project | Description |
 |--------|------------|
