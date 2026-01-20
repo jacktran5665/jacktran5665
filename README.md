@@ -16,7 +16,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=postman&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## `About Me`  
-I’m studying computer science at `Georgia Tech`, with focus on `Intelligence & People`. To me, AI should do more than impress... it should be responsible, human-centered, and impactful! (Lets Connect! [LinkedIn](https://www.linkedin.com/in/jacktran04/), [Handshake](https://app.joinhandshake.com/profiles/bscdt4)), [CareerBuzz](https://gatech-csm.symplicity.com/profiles/ngoc.vi.tran)
+I’m studying computer science at `Georgia Tech`, with focus on `Intelligence & People`. To me, AI should do more than impress... it should be responsible, human-centered, and impactful! (Lets Connect! [LinkedIn](https://www.linkedin.com/in/jacktran04/), [Handshake](https://app.joinhandshake.com/profiles/bscdt4), [CareerBuzz](https://gatech-csm.symplicity.com/profiles/ngoc.vi.tran))
 
 ## `Quote of The Day`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
